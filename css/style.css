@@ -2,8 +2,8 @@
 
 .skip {
         position: absolute;
-        top: -1000px;
-        left: -1000px;
+        top: 1px;
+        left: 1px;
         height: 1px;
         width: 1px;
         text-align: left;
